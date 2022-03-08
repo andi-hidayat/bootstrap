@@ -1,2 +1,2 @@
-# learn_frontend
-This repository contains my frontend learning's project 
+# 
+This repository contains frontend project using bootstrap 
